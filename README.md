@@ -1,4 +1,4 @@
-# Template Puppet Module for Boxen
+# peco Module for Boxen
 
 Installs [peco](http://peco.github.io) via homebrew
 
